@@ -30,8 +30,8 @@ Assignment 3 -> Spell Construction
 Objectives 3 :
 
 >> Give practice with recursion in C.
->> Give practice with construction in C.
->> Give additional practice with strings in C.
+ Give practice with construction in C.
+ Give additional practice with strings in C.
 
 Assignment 4 -> Magic Containment
 
