@@ -10,35 +10,32 @@ Assignment 1 -> Magical Inventory Assesment
 
 Objectives 1 :
 
->> Give additional practice with loops in C.
->> Give additional practice with arrays in C.
->> Give additional practice implementing functions in C.
->> Give additional practice with structs in C.
->> Give additional practice with strings in C. 
->> Give practice with dynamic memory allocation and management in C
+>> Provide additional practice in C with loops, arrays, functions, structs, strings, and dynamic memory allocation and management.
 
 Assignment 2 - Magical Leak Detected
 
 Objectives 2 :
 
->> Give additional practice with nested loops in C.
->> Give additional practice with dynamic memory allocation and management in C.
->> Give practice with queues in C
+>> Provide additional practice in C with nested loops, dynamic memory allocation and management, and queue implementation.
 
 Assignment 3 -> Spell Construction
 
 Objectives 3 :
 
->> Give practice with recursion in C.
- Give practice with construction in C.
- Give additional practice with strings in C.
+>> Provide practice in C with recursion, construction, and additional exercises with strings.
 
 Assignment 4 -> Magic Containment
 
 Objectives 4 :
 
->> Give practice with sorting in C.
->> Give practice with 2 pointer logic in C.
+>> Provide practice in C with sorting, two-pointer logic, recursion, construction, strings, nested loops, dynamic memory allocation and management, and queue implementation.
+
+
+
+
+
+
+
 
 
 
