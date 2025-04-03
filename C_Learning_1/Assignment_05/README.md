@@ -16,5 +16,5 @@ This program continuously accepts grade inputs from the user until `-1` is enter
 2. Run:
    ```bash
    ./pass_counter
-#👤 Author
+# 👤 Author
 Akin Korkmaz
