@@ -12,9 +12,7 @@ This program continuously accepts grade inputs from the user until `-1` is enter
 ## 🛠️ How to Run
 1. Compile the code:
    ```bash
-   gcc -o pass_counter program05.c
-2. Run:
-   ```bash
+   gcc -o pass_counter main.c
    ./pass_counter
 # 👤 Author
 Akin Korkmaz
