@@ -23,7 +23,7 @@ This assignment contains **four separate loop examples** demonstrating various l
 ## 🛠️ How to Run
 Each loop is encapsulated in its own `main()` function. Uncomment **one** loop at a time before compiling.
 
-    gcc -o loops program06.c -lm
+    gcc -o loops main.c -lm
     ./loops
 
 # 👤 Author
