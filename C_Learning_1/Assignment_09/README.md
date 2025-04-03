@@ -16,7 +16,7 @@ This program offers a simple menu-based interface that allows the user to conver
 ## 🛠️ How to Run
 1. Compile the code:
    ```bash
-   gcc -o temperature_converter program09.c -lm
+   gcc -o temperature_converter main.c -lm
    ./temprature_converter
 # 👤 Author
 Akin Korkmaz
