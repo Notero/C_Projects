@@ -14,7 +14,7 @@ This program continuously collects positive values from the user and calculates 
 ## 🛠️ How to Run
 1. Compile the code:
    ```bash
-   gcc -o value_stats program07.c -lm
+   gcc -o value_stats main.c -lm
    ./value_stats
 # 👤 Author
 Akin Korkmaz
