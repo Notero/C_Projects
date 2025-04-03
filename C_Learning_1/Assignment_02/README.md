@@ -14,9 +14,7 @@ This program is a basic calculator designed to perform operations on two user-in
 ## 🛠️ How to Run
 1. Compile the program:
    ```bash
-   gcc -o calculator program02.c
-2. Run:
-   ```bash
+   gcc -o calculator main.c
    ./calculator
 #👤 Author
 Akin Korkmaz
