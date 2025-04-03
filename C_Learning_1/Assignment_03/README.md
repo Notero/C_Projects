@@ -16,9 +16,7 @@ This program collects four floating-point grade values from the user, calculates
 ## 🛠️ How to Run
 1. Compile the code:
    ```bash
-   gcc -o grade_calculator program03.c
-2. Run:
-    ```bash
+   gcc -o grade_calculator main.c
     ./grade_calculator
 👤 Author
 Akin Korkmaz
