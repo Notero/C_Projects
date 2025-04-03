@@ -6,9 +6,7 @@ A simple C program that displays personal information including name, birth year
 ## 🛠️ How to Run
    1. Compile the code:
       ```bash
-      gcc -o program01 program01.c
-   Run the executable:
-   
+      gcc -o program01 main.c
     ./program01
 
    # 👤 Author
