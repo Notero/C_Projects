@@ -12,7 +12,7 @@ This program defines a `SOCCER` structure to represent match data, including hom
 ## 🛠️ How to Run
 1. Compile the code:
    ```bash
-   gcc -o soccer program08.c
+   gcc -o soccer main.c
    ./soccer
 
 # 👤 Author
