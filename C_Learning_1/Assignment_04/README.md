@@ -14,9 +14,7 @@ This program calculates the shipping cost of a package based on its weight and t
 ## 🛠️ How to Run
 1. Compile the code:
    ```bash
-   gcc -o shipping_calculator program04.c -lm
-2. Run:
-   ```bash
+   gcc -o shipping_calculator main.c -lm
    ./shipping_calculator
 
 #👤 Author
