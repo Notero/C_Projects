@@ -22,6 +22,8 @@ Progressive exercises covering:
 Introductory lab tasks focused on:
 - Algorithms with arrays and strings
 - Basic functional programming concepts
+- Data Structures (List,Stacks,Queues,Binary Tree(and variants))
+- Basic Algorithms for Sorting, Searching 
 
 ### ⚙️ Systems_Software (COP3402 Labs)
 Hands-on systems-level programming:
